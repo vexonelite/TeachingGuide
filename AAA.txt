@@ -4,7 +4,15 @@ Hello world!!
  3156cb32ab5646ccdc7778b5568f19e7a2ac6711
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Yamaha Tricity
 =======
 6789 sweet
 >>>>>>> fly
+=======
+6789 sweet
+
+fly away
+
+high profile
+>>>>>>> origin/fly
